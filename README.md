@@ -7,11 +7,15 @@ Lora devices
 
 The thing network
 
-Grafana dashboard 
 
+Grafana dashboard 
 
 
 https://os.mbed.com/docs/v5.8/tutorials/LoRa-tutorial.html
 
+
+Ardunio to mqtt 
+mqtt to node red
+node red to firebase
 
 
