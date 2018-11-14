@@ -22,7 +22,8 @@ https://randomnerdtutorials.com/esp8266-and-node-red-with-mqtt/
 
 
 IOT platforms
-thethingnetwork
-thingspeak
-blynk 
-node-red
+Thethingnetwork
+Thingspeak
+Blynk 
+Node-red
+Cayenne 
