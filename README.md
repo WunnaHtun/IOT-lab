@@ -29,3 +29,7 @@ Node-red
 Cayenne 
 
 Nodemcu communication https://www.instructables.com/id/WiFi-Communication-Between-Two-ESP8266-Based-MCU-T/
+
+Google Cloud IOT
+
+https://medium.com/google-cloud/build-a-weather-station-using-google-cloud-iot-core-and-mongooseos-7a78b69822c5
